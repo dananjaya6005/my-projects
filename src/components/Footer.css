@@ -1,0 +1,15 @@
+.footer_handle{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.footer_bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    flex-direction: column;
+    background-color: rgb(243, 185, 97);
+}
