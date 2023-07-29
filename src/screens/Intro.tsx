@@ -103,7 +103,8 @@ function Intro({ onButtonClick,handlNav}:IntroProps) {
             <Tag color="#665933" name="Redux" />
             <Tag color="#665933" name="Node js" />
             <Tag color="#665933" name="Aws Amplify" />
-            <Tag color="#665933" name="Web scraping" />
+            <Tag color="#665933" name="Graphql" />
+            <Tag color="#665933" name="MongoDB" />
           </div>
           
     
