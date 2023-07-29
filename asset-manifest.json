@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-projects/static/css/main.3084ee52.css",
-    "main.js": "/my-projects/static/js/main.a5da79f7.js",
+    "main.css": "/my-projects/static/css/main.443f2218.css",
+    "main.js": "/my-projects/static/js/main.884636cf.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-projects/static/js/787.1ed0c42c.chunk.js",
-    "static/media/new dp.png": "/my-projects/static/media/new dp.e2ee3034ef7343e71b43.png",
     "static/media/werather_app_icon.png": "/my-projects/static/media/werather_app_icon.77167cf4a5a6ed26a289.png",
     "static/media/book_search app.jpg": "/my-projects/static/media/book_search app.b1a90baa8b40d1c71cbe.jpg",
     "static/media/dream_travel.png": "/my-projects/static/media/dream_travel.da1a73c9b5f45411e59b.png",
+    "static/media/new dp.jpg": "/my-projects/static/media/new dp.78b01c5d1a3e15b0a4f2.jpg",
     "static/media/black_rose.png": "/my-projects/static/media/black_rose.dd56e3c64e429290b3c5.png",
     "static/media/Lanka_news_icon.png": "/my-projects/static/media/Lanka_news_icon.e8a9c1496b5a8f32746a.png",
     "static/media/loading.jpg": "/my-projects/static/media/loading.ffc79a63eea0c80161af.jpg",
     "index.html": "/my-projects/index.html",
-    "main.3084ee52.css.map": "/my-projects/static/css/main.3084ee52.css.map",
-    "main.a5da79f7.js.map": "/my-projects/static/js/main.a5da79f7.js.map",
+    "main.443f2218.css.map": "/my-projects/static/css/main.443f2218.css.map",
+    "main.884636cf.js.map": "/my-projects/static/js/main.884636cf.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-projects/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3084ee52.css",
-    "static/js/main.a5da79f7.js"
+    "static/css/main.443f2218.css",
+    "static/js/main.884636cf.js"
   ]
 }
