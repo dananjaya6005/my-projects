@@ -14,13 +14,6 @@ function App() {
 
   const divRef = useRef<HTMLDivElement>(null);
 
-  // const handlNav = () => {
-  //   if (divRef.current) {
-  //     divRef.current.focus();
-  //   }
-  // };
-
-
   const handleclick=()=>{
     divRef.current?.scrollIntoView({behavior : 'smooth'});
   }

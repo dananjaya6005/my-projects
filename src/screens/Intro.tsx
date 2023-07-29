@@ -8,7 +8,7 @@ import Button from '@mui/material/Button';
 import { AwesomeButton } from 'react-awesome-button';
 import 'react-awesome-button/dist/styles.css';
 
-import test from '../images/new dp.png';
+import profile_pic from '../images/new dp.jpg';
 
 
 interface IntroProps {
@@ -88,7 +88,7 @@ function Intro({ onButtonClick,handlNav}:IntroProps) {
     
       <div>
         <div className="divde-top-content">
-        <img className="test" src={test} alt="Logo" />
+        <img className="test" src={profile_pic} alt="Logo" />
 
         <div className="manage_head_and_sub_text">
           <h1 className="head_txt">Explore my collection of software projects</h1>
