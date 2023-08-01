@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/my-projects/static/css/main.443f2218.css",
-    "main.js": "/my-projects/static/js/main.6b50016e.js",
+    "main.css": "/my-projects/static/css/main.b0ac1ad8.css",
+    "main.js": "/my-projects/static/js/main.9cac80b8.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-projects/static/js/787.1ed0c42c.chunk.js",
-    "static/media/werather_app_icon.png": "/my-projects/static/media/werather_app_icon.77167cf4a5a6ed26a289.png",
-    "static/media/book_search app.jpg": "/my-projects/static/media/book_search app.b1a90baa8b40d1c71cbe.jpg",
     "static/media/dream_travel.png": "/my-projects/static/media/dream_travel.da1a73c9b5f45411e59b.png",
     "static/media/new dp.jpg": "/my-projects/static/media/new dp.78b01c5d1a3e15b0a4f2.jpg",
-    "static/media/black_rose.png": "/my-projects/static/media/black_rose.dd56e3c64e429290b3c5.png",
-    "static/media/Lanka_news_icon.png": "/my-projects/static/media/Lanka_news_icon.e8a9c1496b5a8f32746a.png",
-    "static/media/loading.jpg": "/my-projects/static/media/loading.ffc79a63eea0c80161af.jpg",
+    "static/media/weather_app.png": "/my-projects/static/media/weather_app.da40db4140fde3d5a499.png",
+    "static/media/goole book seach app.jpg": "/my-projects/static/media/goole book seach app.ca8c0576b32329302dc9.jpg",
+    "static/media/dream travel.jpg": "/my-projects/static/media/dream travel.559021b9a6d2a4b18b30.jpg",
+    "static/media/lanka news.png": "/my-projects/static/media/lanka news.dfdb6e4ee3258c22e8b4.png",
+    "static/media/clrek_auth_post_web.jpg": "/my-projects/static/media/clrek_auth_post_web.1b88b2beb3b0b4d0718c.jpg",
+    "static/media/vscode theme.png": "/my-projects/static/media/vscode theme.c84cabe8b1ad34f2c313.png",
     "index.html": "/my-projects/index.html",
-    "main.443f2218.css.map": "/my-projects/static/css/main.443f2218.css.map",
-    "main.6b50016e.js.map": "/my-projects/static/js/main.6b50016e.js.map",
+    "main.b0ac1ad8.css.map": "/my-projects/static/css/main.b0ac1ad8.css.map",
+    "main.9cac80b8.js.map": "/my-projects/static/js/main.9cac80b8.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-projects/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.443f2218.css",
-    "static/js/main.6b50016e.js"
+    "static/css/main.b0ac1ad8.css",
+    "static/js/main.9cac80b8.js"
   ]
 }
