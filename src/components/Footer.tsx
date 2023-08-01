@@ -10,7 +10,12 @@ function Footer(){
     return(
         <>
         <div className="footer_bg">
+        <div style={{flex:1,flexDirection:'row',textAlign:'center'}}>
         <p style={{color:"#331a00"}}>© 2023 - 2023 Dhannajaya chathuranga - All Rights Reserved.</p>
+        <p>071 884 3104</p>
+        <p>+94 718843104</p>
+        <p>dananjaya6005@gmail.com</p>
+        </div>
         <div className="footer_handle">
             <IconButton>
                 <LinkedInIcon />

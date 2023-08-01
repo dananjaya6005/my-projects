@@ -12,7 +12,7 @@ const CardView=({projectName,Tool,Discription,Image,link})=>{
         
         <div className="card_style">
             <h3 className="project_name">{projectName}</h3>
-            <img src={Image} width="25%" className="project_img" />
+            <img src={Image} width="95%" className="project_img" />
             <p className="project_tool_txt">{Tool}</p>
 
             <p className="discription">{Discription}</p>

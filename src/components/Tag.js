@@ -1,6 +1,6 @@
 import React from "react";
 
-const Tag = ({ color, name }) => {
+const Tag = ({ color, name, }) => {
   const tagStyle = {
     background: color,
     fontSize: '0.8rem',
@@ -10,6 +10,8 @@ const Tag = ({ color, name }) => {
     color:'white',
     display: 'inline-block',
     borderRadius: '7px',
+    margin: '5px'
+    
   };
 
   return <div style={tagStyle}>{name}</div>;

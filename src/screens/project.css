@@ -1,0 +1,16 @@
+.threre_card_row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  @media (max-width: 768px) {
+    .threre_card_row {
+      flex-direction: column;
+      
+    }
+    .threre_card_row > * {
+      width: 60vw;
+    }
+  }
+
+  
